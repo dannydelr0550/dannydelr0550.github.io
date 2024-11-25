@@ -12,19 +12,46 @@ about:
       href: https://github.com/dannydelr0550
 ---
 
-Hello! I am a first-year biostatistics MSc student and bioinformatician with a strong background in the Health Sciences. I am pursuing the field of statistical genomics to combine my passion for statistical methods with my love of cellular biology, and to build on my 2 years of experience analyzing high-throughput data with Python, R, and Bash. I especially enjoy teaching; I have spent 6 semesters as a Teaching Assistant in McMaster's Faculty of Health Sciences, taught the General Chemistry section of 10 MCAT prep courses with The Princeton Review, and ran 14 review sessions for lower-year courses to assist younger Health Sciences students.
+Hello! I am a \*\*first-year MSc Biostatistics student\*\* and \*\*bioinformatician\*\* with a strong foundation in Health Sciences and statistical methods. My goal is to work in the field of \*\*statistical genomics\*\*, combining my passion for statistical methods with cellular biology. I have \*\*2 years of experience\*\* analyzing high-throughput data using \*\*Python\*\*, \*\*R\*\*, and \*\*Bash\*\*. In my spare time, I like to play Scrabble, watch hockey, practice the saxophone, and play any sport with a racquet.
+
+I also love \*\*teaching\*\*:
+[-]{.underline} \*\*6 semesters\*\* as a Teaching Assistant in McMaster's Faculty of Health Sciences.
+[-]{.underline} Taught \*\*General Chemistry\*\* in \*\*10 MCAT prep courses\*\* with The Princeton Review.
+[-]{.underline} Organized and ran \*\*14 review sessions\*\* for lower-year Health Sciences students.
+
+\-\--
 
 ## Education
 
--   University of Toronto, Toronto, ON, MSc, Biostatistics \| Sept 2024 - Present
+### University of Toronto, Toronto, ON
+\*\*Master of Science (MSc), Biostatistics\*\*
+\*Sept 2024 -- Present\*
 
-```{=html}
-<!-- -->
-```
--   McMaster University, Hamilton, ON, BHSc, Health Sciences \| Sept 2020 - April 2024
+### McMaster University, Hamilton, ON
+\*\*Bachelor of Health Sciences (BHSc), Health Sciences\*\*
+\*Sept 2020 -- April 2024\*
+
+\-\--
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
+### Wengo Analytics
+\*\*Head Data Scientist\*\*
+\*April 2018 -- Present\*
 
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+[-]{.underline} Led a team to analyze complex datasets, generating actionable insights.
+[-]{.underline} Designed workflows for data processing and modeling in R and Python.
+[-]{.underline} Specialized in statistical genomics and bioinformatics applications.
+
+### GeoScynce
+\*\*Chief Analyst\*\*
+\*Sept 2012 -- April 2018\*
+
+[-]{.underline} Managed high-volume geospatial datasets and developed predictive models.
+[-]{.underline} Collaborated with interdisciplinary teams on public health and environmental projects.
+
+\-\--
+
+### Connect with Me
+
+Feel free to reach out on \[LinkedIn\](https://www.linkedin.com/in/daniel-del-rosso-328766227) or explore my work on \[GitHub\](https://github.com/dannydelr0550).
