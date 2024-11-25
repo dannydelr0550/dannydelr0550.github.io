@@ -31,27 +31,6 @@ I also love \*\*teaching\*\*:
 \*\*Bachelor of Health Sciences (BHSc), Health Sciences\*\*
 \*Sept 2020 -- April 2024\*
 
-\-\--
-
-## Experience
-
-### Wengo Analytics
-\*\*Head Data Scientist\*\*
-\*April 2018 -- Present\*
-
-[-]{.underline} Led a team to analyze complex datasets, generating actionable insights.
-[-]{.underline} Designed workflows for data processing and modeling in R and Python.
-[-]{.underline} Specialized in statistical genomics and bioinformatics applications.
-
-### GeoScynce
-\*\*Chief Analyst\*\*
-\*Sept 2012 -- April 2018\*
-
-[-]{.underline} Managed high-volume geospatial datasets and developed predictive models.
-[-]{.underline} Collaborated with interdisciplinary teams on public health and environmental projects.
-
-\-\--
-
 ### Connect with Me
 
 Feel free to reach out on \[LinkedIn\](https://www.linkedin.com/in/daniel-del-rosso-328766227) or explore my work on \[GitHub\](https://github.com/dannydelr0550).
