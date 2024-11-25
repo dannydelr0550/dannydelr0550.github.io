@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "dannydelr0550.github.io"
+  page-footer:
+    left: "Danny Del Rosso, University of Toronto (2024)"
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+      - href: files/Daniel Del Rosso - CV.pdf
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+

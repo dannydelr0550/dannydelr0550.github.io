@@ -1,0 +1,30 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: Images/Del_Rosso_Daniel-Headshot.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daniel-del-rosso-328766227
+    - icon: github
+      text: Github
+      href: https://github.com/dannydelr0550
+---
+
+Hello! I am a first-year biostatistics MSc student and bioinformatician with a strong background in the Health Sciences. I am pursuing the field of statistical genomics to combine my passion for statistical methods with my love of cellular biology, and to build on my 2 years of experience analyzing high-throughput data with Python, R, and Bash. I especially enjoy teaching; I have spent 6 semesters as a Teaching Assistant in McMaster's Faculty of Health Sciences, taught the General Chemistry section of 10 MCAT prep courses with The Princeton Review, and ran 14 review sessions for lower-year courses to assist younger Health Sciences students.
+
+## Education
+
+-   University of Toronto, Toronto, ON, MSc, Biostatistics \| Sept 2024 - Present
+
+```{=html}
+<!-- -->
+```
+-   McMaster University, Hamilton, ON, BHSc, Health Sciences \| Sept 2020 - April 2024
+
+## Experience
+
+Wengo Analytics \| Head Data Scientist \| April 2018 - present
+
+GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
