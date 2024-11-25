@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I am a first-year biostatistics MSc student and bioinformatician with a strong background in the Health Sciences. I am pursuing the field of statistical genomics to combine my passion for statistical methods with my love of cellular biology, and to build on my 2 years of experience analyzing high-throughput data with Python, R, and Bash. I especially enjoy teaching; I have spent 6 semesters as a Teaching Assistant in McMaster’s Faculty of Health Sciences, taught the General Chemistry section of 10 MCAT prep courses with The Princeton Review, and ran 14 review sessions for lower-year courses to assist younger Health Sciences students."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Toronto, Toronto, ON, MSc, Biostatistics | Sept 2024 - Present\n\n\n\nMcMaster University, Hamilton, ON, BHSc, Health Sciences | Sept 2020 - April 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blogs",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "Posts/Tutorial/index.html",
+    "href": "Posts/Tutorial/index.html",
+    "title": "dannydelr0550.github.io",
+    "section": "",
+    "text": "Hello"
+  }
+]
